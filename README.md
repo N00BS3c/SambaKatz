@@ -1,3 +1,6 @@
+![sambakatz](https://github.com/user-attachments/assets/4acf9d5e-7722-4601-90e2-a7a7d04e42ea)
+
+
 # SambaKatz
 
 Stealthy LSASS dumper that exfiltrates memory over SMB — without touching disk.
@@ -24,3 +27,5 @@ This project is inspired by:
 
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) — by Benjamin Delpy (@gentilkiwi), the legendary LSASS and credential dumping tool.
 - [Impacket](https://github.com/fortra/impacket) — for its excellent SMB tooling and examples.
+
+
